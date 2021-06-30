@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tianxiang Shen"
+  # name             : "Tianxiang Shen"
   avatar           : "stx.png"
   bio              : "PhD student at HKU"
   location         : "Hong Kong, China"

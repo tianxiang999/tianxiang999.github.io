@@ -1,5 +1,5 @@
 ---
-title: "asdasd"
+title: "Daenet"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Describe DAENet, an SGX-powered secure communication system that can provide strong anonymity (e.g., hiding communication endpoints and traffic routes) and ensure reasonable communication efficiency even on packet dropping and DOS attacking scenarios. DAENet's strong anonymity and efficiency are scalable on Internet.'
