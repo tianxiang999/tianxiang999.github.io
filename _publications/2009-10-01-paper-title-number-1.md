@@ -2,7 +2,7 @@
 title: "Uranus: Simple, efficient sgx programming and its applications"
 collection: publications
 permalink: /publication/uranus
-excerpt: 'Describe the first SGX-compatible and Spark-compatible secure big-data computing system that can practically support typical big-data datasets with our new big-data aware Java memory reuse protocols.'
+excerpt: 'Jianyu Jiang, Xusheng Chen, TszOn Li, Cheng Wang, Tianxiang Shen, Shixiong Zhao, Heming Cui, Cho-Li Wang, Fengwei Zhang'
 date: 2020-10-01
 venue: 'ASIACCS'
 paperurl: 'https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf'
