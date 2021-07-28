@@ -1,15 +1,15 @@
 ---
-title: "DAENet: Making Strong Anonymity Scale in a Fully Decentralized Network"
+title: "Uranus: Simple, efficient sgx programming and its applications"
 collection: publications
-permalink: /publication/daenet
-excerpt: 'Describe DAENet, an SGX-powered secure communication system that can provide strong anonymity.'
+permalink: /publication/uranus
+excerpt: 'Describe the first SGX-compatible and Spark-compatible secure big-data computing system that can practically support typical big-data datasets with our new big-data aware Java memory reuse protocols.'
 date: 2020-10-01
-venue: 'TDSC'
-paperurl: 'https://ieeexplore.ieee.org/document/9328493'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'ASIACCS'
+paperurl: 'https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf'
+# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-Describe DAENet, an SGX-powered secure communication system that can provide strong anonymity.
+Describe the first SGX-compatible and Spark-compatible secure big-data computing system that can practically support typical big-data datasets with our new big-data aware Java memory reuse protocols.
+<!-- 
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
-
-<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
