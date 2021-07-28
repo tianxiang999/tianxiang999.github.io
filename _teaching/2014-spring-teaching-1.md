@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience 2"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020
@@ -7,8 +7,8 @@ venue: "Department of Computer Science"
 date: 2020-01-01
 location: "City, Country"
 ---
-
-COMP7104_DASC7104 Advanced database systems (Section 1B) [2020] Instructor: Cautis Bogdan
+COMP3358 Distributed and Parallel Computing (Section 2A) [2020] Instructor:
+Heming Cui
 
 Heading 1
 ======
