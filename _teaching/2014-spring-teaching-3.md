@@ -2,7 +2,7 @@
 title: "Teaching experience 3"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2020
+permalink: /teaching/2019
 venue: "Department of Computer Science"
 date: 2019-01-01
 location: "City, Country"
