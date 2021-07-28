@@ -3,7 +3,7 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020
-venue: "University 1, Department"
+venue: "Department of Computer Science"
 date: 2020-01-01
 location: "City, Country"
 ---
