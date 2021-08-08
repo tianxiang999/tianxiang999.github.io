@@ -2,7 +2,7 @@
 title: "UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System"
 collection: publications
 permalink: /publication/upa
-excerpt: 'Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, Tianxiang Shen, Heming Cui, Yuexuan Wang, Peng Wang'
+excerpt: 'Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>, Heming Cui, Yuexuan Wang, Peng Wang'
 date: 2020-10-01
 venue: 'DSN'
 paperurl: 'https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf'

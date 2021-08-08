@@ -2,7 +2,7 @@
 title: "DAENet: Making Strong Anonymity Scale in a Fully Decentralized Network"
 collection: publications
 permalink: /publication/daenet
-excerpt: 'Tianxiang Shen, Jianyu Jiang, Yunpeng Jiang, Xusheng Chen, Ji Qi, Shixiong Zhao, Fengwei Zhang, Xiapu Luo, Heming Cui'
+excerpt: ' <strong>Tianxiang Shen</strong>, Jianyu Jiang, Yunpeng Jiang, Xusheng Chen, Ji Qi, Shixiong Zhao, Fengwei Zhang, Xiapu Luo, Heming Cui'
 date: 2021-10-01
 venue: 'TDSC'
 paperurl: 'https://ieeexplore.ieee.org/document/9328493'
