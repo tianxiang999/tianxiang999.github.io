@@ -15,3 +15,14 @@ I am broadly interested in distributed systems, security and AI. I have been foc
 (e.g., SGX) systems to secure decentralized computing (e.g., Internet-scale
 private messaging, blockchain) and AI training/inference.
 
+Publications
+-----
+5. BIDL: A High-throughput, Low-latency Permissioned Blockchain Framework for
+   Datacenter Networks [paper]()
+
+   Qi, Ji, Chen, Xusheng, Jiang, Yunpeng, Jiang, Jianyu, Shen, Tianxiang, Zhao,
+   Shixiong, Wang, Sen, Zhang, Gong, Chen, Li, Au, Man Ho, and Cui, Heming
+   
+   In The 28th ACM Symposium on Operating Systems Principles (SOSP), 2021
+
+4. 
