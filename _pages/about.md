@@ -17,32 +17,32 @@ private messaging, blockchain) and AI training/inference.
 
 Publications
 -----
-1. <strong>1NASPipe: High Performance and Reproducible Pipeline Parallel Supernet
+1. <strong>NASPipe: High Performance and Reproducible Pipeline Parallel Supernet
    Training via Causal Synchronous Parallel [[paper]]() (accepted)</strong>
-  <pre>
+  <br>
    <font size="3">Shixiong Zhao, Fanxin Li, Xusheng Chen, <strong>Tianxiang
    Shen</strong>, Li Chen, Sen Wang, Nicholas Zhang, Cheng Li, Heming
-   Cui</font><br>
-   
-   <font size="3">In 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems <strong>(ASPLOS 2021)</strong> </font>
-  </pre>
+   Cui</font><br><font size="3">In 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems <strong>(ASPLOS 2021)</strong> </font>
+
 2. <strong>BIDL: A High-throughput, Low-latency Permissioned Blockchain
   Framework for Datacenter Networks [[paper]]()</strong>
   <br>
    <font size="3">Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang,
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Sen Wang, Gong Zhang, Li
-   Chen, Man Ho Au, Heming Cui</font> <font size="3">In The 28th ACM Symposium on Operating Systems Principles <strong>(SOSP 2021)</strong></font>
+   Chen, Man Ho Au, Heming Cui</font><br/><font size="3">In The 28th ACM Symposium on Operating Systems Principles <strong>(SOSP 2021)</strong></font>
 
 3. <strong>DAENet: Making Strong Anonymity Scale in a Fully Decentralized Network [[paper]](https://ieeexplore.ieee.org/document/9328493)</strong>
   <br>
-   <font size="3"><strong>Tianxiang Shen</strong>, Jianyu Jiang, Yunpeng Jiang, Xusheng Chen, Ji Qi, Shixiong Zhao, Fengwei Zhang, Xiapu Luo, Heming Cui</font>
-   <br>
+   <font size="3"><strong>Tianxiang Shen</strong>, Jianyu Jiang, Yunpeng Jiang,
+   Xusheng Chen, Ji Qi, Shixiong Zhao, Fengwei Zhang, Xiapu Luo, Heming
+   Cui</font>
    <font size="3">IEEE Transactions on Dependable and Secure Computing 2021 <strong>(TDSC 2021)</strong></font>
 
 4. <strong>Uranus: Simple, efficient sgx programming and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
   <br>
-   <font size="3">Jianyu Jiang, Xusheng Chen, TszOn Li, Cheng Wang, <strong>Tianxiang Shen</strong>, Shixiong Zhao, Heming Cui, Cho-Li Wang, Fengwei Zhang</font>
-   <br>
+   <font size="3">Jianyu Jiang, Xusheng Chen, TszOn Li, Cheng Wang,
+   <strong>Tianxiang Shen</strong>, Shixiong Zhao, Heming Cui, Cho-Li Wang,
+   Fengwei Zhang</font>
    <font size="3">In The 15th ACM ASIA Conference on Computer and Communications
    Security <strong>(ASIA CCS 2020)</strong> </font>
 
