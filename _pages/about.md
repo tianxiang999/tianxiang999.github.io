@@ -17,7 +17,7 @@ private messaging, blockchain) and AI training/inference.
 
 Publications
 -----
-1. <strong>NASPipe: High Performance and Reproducible Pipeline Parallel Supernet
+1. <strong>1NASPipe: High Performance and Reproducible Pipeline Parallel Supernet
    Training via Causal Synchronous Parallel [[paper]]() (accepted)</strong>
   <br>
    <font size="3">Shixiong Zhao, Fanxin Li, Xusheng Chen, <strong>Tianxiang
