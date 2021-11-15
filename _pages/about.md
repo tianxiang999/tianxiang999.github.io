@@ -19,7 +19,7 @@ Publications
 -----
 5. <strong>BIDL: A High-throughput, Low-latency Permissioned Blockchain
   Framework for Datacenter Networks [[paper]]()</strong>
-  <br></br>
+  <br>
    <font size="3">Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang,
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Sen Wang, Gong Zhang, Li
    Chen, Man Ho Au, Heming Cui</font>
