@@ -19,10 +19,12 @@ Publications
 -----
 5. <strong>BIDL: A High-throughput, Low-latency Permissioned Blockchain
   Framework for Datacenter Networks [[paper]]()</strong>
-  <font size="3">In The 28th ACM Symposium on Operating Systems Principles
-  (SOSP), 2021</font>
-  <p></p>
-  <font size="3">Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang, <strong>Tianxiang Shen</strong>, Shixiong Zhao, Sen Wang, Gong Zhang, Li Chen, Man Ho Au, Heming Cui</font>
+   <font size="3">Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang,
+   <strong>Tianxiang Shen</strong>, Shixiong Zhao, Sen Wang, Gong Zhang, Li
+   Chen, Man Ho Au, Heming Cui</font>
+   <font size="3">In The 28th ACM Symposium on Operating Systems Principles
+  (SOSP), 2021  </font>
+  
    
    
 
