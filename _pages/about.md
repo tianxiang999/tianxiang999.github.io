@@ -17,7 +17,14 @@ private messaging, blockchain) and AI training/inference.
 
 Publications
 -----
-5. <strong>BIDL: A High-throughput, Low-latency Permissioned Blockchain
+1. <strong>NASPipe: High Performance and Reproducible Pipeline Parallel Supernet
+   Training via Causal Synchronous Parallel [[paper]]() (accepted)</strong>
+  <br>
+   <font size="3">Shixiong Zhao, Fanxin Li, Xusheng Chen, <strong>Tianxiang
+Shen</strong>, Li Chen, Sen Wang, Nicholas Zhang, Cheng Li, Heming Cui</font>
+   <font size="3">In 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2021  </font>
+
+2. <strong>BIDL: A High-throughput, Low-latency Permissioned Blockchain
   Framework for Datacenter Networks [[paper]]()</strong>
   <br>
    <font size="3">Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang,
@@ -25,8 +32,3 @@ Publications
    Chen, Man Ho Au, Heming Cui</font>
    <font size="3">In The 28th ACM Symposium on Operating Systems Principles
   (SOSP), 2021  </font>
-  
-   
-   
-
-4. 
