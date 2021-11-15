@@ -22,7 +22,7 @@ Publications
   <br>
    <font size="3">Shixiong Zhao, Fanxin Li, Xusheng Chen, <strong>Tianxiang
 Shen</strong>, Li Chen, Sen Wang, Nicholas Zhang, Cheng Li, Heming Cui</font>
-<font size="3">In 27th ACM International Conference on Architectural Support
+  <font size="3">In 27th ACM International Conference on Architectural Support
    for Programming Languages and Operating Systems <strong>(ASPLOS 2021)</strong> </font>
 
 2. <strong>BIDL: A High-throughput, Low-latency Permissioned Blockchain
