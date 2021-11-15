@@ -17,12 +17,11 @@ private messaging, blockchain) and AI training/inference.
 
 Publications
 -----
-5. BIDL: A High-throughput, Low-latency Permissioned Blockchain Framework for
-   Datacenter Networks [paper]()
+5. <strong>BIDL: A High-throughput, Low-latency Permissioned Blockchain
+   Framework for Datacenter Networks [[paper]]()</strong>
 
-   Qi, Ji, Chen, Xusheng, Jiang, Yunpeng, Jiang, Jianyu, Shen, Tianxiang, Zhao,
-   Shixiong, Wang, Sen, Zhang, Gong, Chen, Li, Au, Man Ho, and Cui, Heming
+   <font size="3">QJi Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang, <strong>Tianxiang Shen</strong>, Shixiong Zhao, Sen Wang, Gong Zhang, Li Chen, Man Ho Au, Heming Cui</font>
    
-   In The 28th ACM Symposium on Operating Systems Principles (SOSP), 2021
+   <font size="2">In The 28th ACM Symposium on Operating Systems Principles (SOSP), 2021</font>
 
 4. 
