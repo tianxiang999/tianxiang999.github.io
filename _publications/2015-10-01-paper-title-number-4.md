@@ -2,7 +2,7 @@
 title: "BIDL: A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks"
 collection: publications
 permalink: /publication/bidl
-excerpt: 'Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang,  <strong>Tianxiang Shen</strong>, Shixiong Zhao, Sen Wang, Gong Zhang, Li Chen, Man Ho Au, Heming Cui'
+excerpt: 'Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang, <strong>Tianxiang Shen</strong>, Shixiong Zhao, Sen Wang, Gong Zhang, Li Chen, Man Ho Au, Heming Cui'
 date: 2021-10-01
 venue: 'SOSP'
 paperurl: ''
