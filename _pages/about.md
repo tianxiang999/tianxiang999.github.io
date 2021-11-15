@@ -22,6 +22,7 @@ Publications
   <br>
    <font size="3">Shixiong Zhao, Fanxin Li, Xusheng Chen, <strong>Tianxiang
 Shen</strong>, Li Chen, Sen Wang, Nicholas Zhang, Cheng Li, Heming Cui</font>
+  <br>
    <font size="3">In 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2021  </font>
 
 2. <strong>BIDL: A High-throughput, Low-latency Permissioned Blockchain
@@ -30,5 +31,26 @@ Shen</strong>, Li Chen, Sen Wang, Nicholas Zhang, Cheng Li, Heming Cui</font>
    <font size="3">Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang,
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Sen Wang, Gong Zhang, Li
    Chen, Man Ho Au, Heming Cui</font>
+   <br>
    <font size="3">In The 28th ACM Symposium on Operating Systems Principles
   (SOSP), 2021  </font>
+
+3. <strong>DAENet: Making Strong Anonymity Scale in a Fully Decentralized Network [[paper]](https://ieeexplore.ieee.org/document/9328493)</strong>
+  <br>
+   <font size="3"><strong>Tianxiang Shen</strong>, Jianyu Jiang, Yunpeng Jiang, Xusheng Chen, Ji Qi, Shixiong Zhao, Fengwei Zhang, Xiapu Luo, Heming Cui</font>
+   <br>
+   <font size="3">IEEE Transactions on Dependable and Secure Computing 2021
+   (TDSC) 2021</font>
+
+4. <strong>Uranus: Simple, efficient sgx programming and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
+  <br>
+   <font size="3">Jianyu Jiang, Xusheng Chen, TszOn Li, Cheng Wang, <strong>Tianxiang Shen</strong>, Shixiong Zhao, Heming Cui, Cho-Li Wang, Fengwei Zhang</font>
+   <br>
+   <font size="3">In The 15th ACM ASIA Conference on Computer and Communications
+   Security (ASIA CCS), 2020  </font>
+
+5. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)</strong>
+  <br>
+   <font size="3">Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>, Heming Cui, Yuexuan Wang, Peng Wang</font>
+   <br>
+   <font size="3">In The Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2020  </font>
