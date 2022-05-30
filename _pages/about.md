@@ -24,8 +24,8 @@ Publications
   <br>
    <font size="3"><strong>Tianxiang Shen</strong>, Ji Qi, Jianyu Jiang, Xian
    Wang, Siyuan Wen, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Xiapu Luo,
-   Fengwei Zhang, Heming Cui</font><br><font size="3"<i>Proceedings of the 2022 USENIX Annual Technical Conference</i> <strong>(ATC
-   2022)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
+   Fengwei Zhang, Heming Cui</font><br>Proceedings of the 2022 USENIX Annual Technical Conference <strong>(ATC
+   2022)</strong><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
 2. <strong>DAENet: Making Strong Anonymity Scale in a Fully Decentralized Network [[paper]](https://ieeexplore.ieee.org/document/9328493)</strong>
   <br>
