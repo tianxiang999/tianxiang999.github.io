@@ -16,7 +16,7 @@ particular focus on improving the security and performance. During my PhD study,
 I have been focusing on building privacy-preserving decentralized
 computing systems (e.g., Internet-scale
 private messaging system, distributed ledger) and AI training/serving systems
-with practical security tools (e.g., Trusted Execution Environmnt).
+with practical security tools (e.g., Trusted Execution Environment).
 
 Publications
 -----
