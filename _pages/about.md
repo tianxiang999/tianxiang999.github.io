@@ -25,14 +25,14 @@ Publications
    <font size="3"><strong>Tianxiang Shen</strong>, Ji Qi, Jianyu Jiang, Xian
    Wang, Siyuan Wen, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Xiapu Luo,
    Fengwei Zhang, Heming Cui<br>Proceedings of the 2022 USENIX Annual Technical Conference <strong>(ATC
-   2022)</strong></font><font size="2" face="arial" color="red">CCF-A</font>
+   2022)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
    
 2. <strong>NASPipe: High Performance and Reproducible Pipeline Parallel Supernet
    Training via Causal Synchronous Parallel [[paper]](https://i.cs.hku.hk/~heming/papers/asplos22-naspipe.pdf) </strong>
   <br>
    <font size="3">Shixiong Zhao, Fanxin Li, Xusheng Chen, <strong>Tianxiang
    Shen</strong>, Li Chen, Sen Wang, Nicholas Zhang, Cheng Li, Heming
-   Cui<br>In 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems <strong>(ASPLOS 2022)</strong></font>
+   Cui<br>In 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems <strong>(ASPLOS 2022)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
 3. <strong>COORP: Satisfying Low-Latency and High-Throughput Requirements of Wireless Network for Coordinated Robotic Learning [[paper]](https://i.cs.hku.hk/~heming/papers/iotj22-coorp.pdf)</strong>
   <br>
@@ -46,13 +46,13 @@ Publications
   <br>
    <font size="3">Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang,
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Sen Wang, Gong Zhang, Li
-   Chen, Man Ho Au, Heming Cui<br>In The 28th ACM Symposium on Operating Systems Principles <strong>(SOSP 2021)</strong></font>
+   Chen, Man Ho Au, Heming Cui<br>In The 28th ACM Symposium on Operating Systems Principles <strong>(SOSP 2021)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
 5. <strong>DAENet: Making Strong Anonymity Scale in a Fully Decentralized Network [[paper]](https://ieeexplore.ieee.org/document/9328493)</strong>
   <br>
    <font size="3"><strong>Tianxiang Shen</strong>, Jianyu Jiang, Yunpeng Jiang,
    Xusheng Chen, Ji Qi, Shixiong Zhao, Fengwei Zhang, Xiapu Luo, Heming
-   Cui<br>IEEE Transactions on Dependable and Secure Computing 2021 <strong>(TDSC 2021)</strong></font>
+   Cui<br>IEEE Transactions on Dependable and Secure Computing 2021 <strong>(TDSC 2021)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
 6. <strong>Uranus: Simple, efficient sgx programming and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
   <br>
