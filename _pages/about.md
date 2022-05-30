@@ -26,33 +26,33 @@ Publications
    Wang, Siyuan Wen, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Xiapu Luo,
    Fengwei Zhang, Heming Cui<br>Proceedings of the 2022 USENIX Annual Technical Conference <strong>(ATC
    2022)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
-   
-2. <strong>NASPipe: High Performance and Reproducible Pipeline Parallel Supernet
+
+2. <strong>DAENet: Making Strong Anonymity Scale in a Fully Decentralized Network [[paper]](https://ieeexplore.ieee.org/document/9328493)</strong>
+  <br>
+   <font size="3"><strong>Tianxiang Shen</strong>, Jianyu Jiang, Yunpeng Jiang,
+   Xusheng Chen, Ji Qi, Shixiong Zhao, Fengwei Zhang, Xiapu Luo, Heming
+   Cui<br>IEEE Transactions on Dependable and Secure Computing 2021 <strong>(TDSC 2021)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
+
+3. <strong>NASPipe: High Performance and Reproducible Pipeline Parallel Supernet
    Training via Causal Synchronous Parallel [[paper]](https://i.cs.hku.hk/~heming/papers/asplos22-naspipe.pdf) </strong>
   <br>
    <font size="3">Shixiong Zhao, Fanxin Li, Xusheng Chen, <strong>Tianxiang
    Shen</strong>, Li Chen, Sen Wang, Nicholas Zhang, Cheng Li, Heming
    Cui<br>In 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems <strong>(ASPLOS 2022)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
-3. <strong>COORP: Satisfying Low-Latency and High-Throughput Requirements of Wireless Network for Coordinated Robotic Learning [[paper]](https://i.cs.hku.hk/~heming/papers/iotj22-coorp.pdf)</strong>
+4. <strong>COORP: Satisfying Low-Latency and High-Throughput Requirements of Wireless Network for Coordinated Robotic Learning [[paper]](https://i.cs.hku.hk/~heming/papers/iotj22-coorp.pdf)</strong>
   <br>
    <font size="3">Shengliang Deng, Xiuxian Guan, Zekai Sun, Shixiong Zhao, <strong>Tianxiang
    Shen</strong>, Xusheng Chen, Tianyang Duan, Yuexuan Wang, Jia Pan, Yanjun Wu,
    Libo Zhang, Heming Cui<br>IEEE Internet of Things Journal 2022 <strong>(IOT-J
    2022)</strong></font>
 
-4. <strong>BIDL: A High-throughput, Low-latency Permissioned Blockchain
+5. <strong>BIDL: A High-throughput, Low-latency Permissioned Blockchain
   Framework for Datacenter Networks [[paper]](https://i.cs.hku.hk/~heming/papers/sosp21-bidl.pdf)</strong>
   <br>
    <font size="3">Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang,
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Sen Wang, Gong Zhang, Li
    Chen, Man Ho Au, Heming Cui<br>In The 28th ACM Symposium on Operating Systems Principles <strong>(SOSP 2021)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
-
-5. <strong>DAENet: Making Strong Anonymity Scale in a Fully Decentralized Network [[paper]](https://ieeexplore.ieee.org/document/9328493)</strong>
-  <br>
-   <font size="3"><strong>Tianxiang Shen</strong>, Jianyu Jiang, Yunpeng Jiang,
-   Xusheng Chen, Ji Qi, Shixiong Zhao, Fengwei Zhang, Xiapu Luo, Heming
-   Cui<br>IEEE Transactions on Dependable and Secure Computing 2021 <strong>(TDSC 2021)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
 6. <strong>Uranus: Simple, efficient sgx programming and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
   <br>
