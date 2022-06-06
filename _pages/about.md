@@ -20,7 +20,7 @@ with practical security tools (e.g., Trusted Execution Environment).
 
 Publications
 -----
-1. <strong>SOTER: Guarding Black-box Inference for General Neural Networks at the Edge [[paper]](tbd)</strong>
+1. <strong>SOTER: Guarding Black-box Inference for General Neural Networks at the Edge [[paper]](https://www.usenix.org/conference/atc22/presentation/shen)</strong>
   <br>
    <font size="3"><strong>Tianxiang Shen</strong>, Ji Qi, Jianyu Jiang, Xian
    Wang, Siyuan Wen, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Xiapu Luo,
