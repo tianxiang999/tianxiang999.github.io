@@ -32,35 +32,39 @@ Publications
    Xusheng Chen, Ji Qi, Shixiong Zhao, Fengwei Zhang, Xiapu Luo, Heming
    Cui<br>IEEE Transactions on Dependable and Secure Computing 2021 <strong>(TDSC 2021)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
-3. <strong>NASPipe: High Performance and Reproducible Pipeline Parallel Supernet
+3. <strong>CRONUS: Fault-isolated, Secure and High-performance Heterogeneous Computing for Trusted Execution Environments [[paper]]()</strong>
+  <br>
+   <font size="3">Jianyu Jiang, Qi Ji, <strong>Tianxiang Shen</strong>, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Gong Zhang, Xiapu Luo, Heming Cui<br>The 55th ACM/IEEE International Symposium on Microarchitecture <strong>(MICRO 2022)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
+
+4. <strong>NASPipe: High Performance and Reproducible Pipeline Parallel Supernet
    Training via Causal Synchronous Parallel [[paper]](https://i.cs.hku.hk/~heming/papers/asplos22-naspipe.pdf) </strong>
   <br>
    <font size="3">Shixiong Zhao, Fanxin Li, Xusheng Chen, <strong>Tianxiang
    Shen</strong>, Li Chen, Sen Wang, Nicholas Zhang, Cheng Li, Heming
    Cui<br>In 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems <strong>(ASPLOS 2022)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
  
-4. <strong>COORP: Satisfying Low-Latency and High-Throughput Requirements of Wireless Network for Coordinated Robotic Learning [[paper]](https://i.cs.hku.hk/~heming/papers/iotj22-coorp.pdf)</strong>
+5. <strong>COORP: Satisfying Low-Latency and High-Throughput Requirements of Wireless Network for Coordinated Robotic Learning [[paper]](https://i.cs.hku.hk/~heming/papers/iotj22-coorp.pdf)</strong>
   <br>
    <font size="3">Shengliang Deng, Xiuxian Guan, Zekai Sun, Shixiong Zhao, <strong>Tianxiang
    Shen</strong>, Xusheng Chen, Tianyang Duan, Yuexuan Wang, Jia Pan, Yanjun Wu,
    Libo Zhang, Heming Cui<br>IEEE Internet of Things Journal 2022 <strong>(IOT-J
    2022)</strong></font>
 
-5. <strong>BIDL: A High-throughput, Low-latency Permissioned Blockchain
+6. <strong>BIDL: A High-throughput, Low-latency Permissioned Blockchain
   Framework for Datacenter Networks [[paper]](https://i.cs.hku.hk/~heming/papers/sosp21-bidl.pdf)</strong>
   <br>
    <font size="3">Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang,
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Sen Wang, Gong Zhang, Li
    Chen, Man Ho Au, Heming Cui<br>In The 28th ACM Symposium on Operating Systems Principles <strong>(SOSP 2021)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
-6. <strong>Uranus: Simple, efficient sgx programming and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
+7. <strong>Uranus: Simple, efficient sgx programming and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
   <br>
    <font size="3">Jianyu Jiang, Xusheng Chen, TszOn Li, Cheng Wang,
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Heming Cui, Cho-Li Wang,
    Fengwei Zhang<br>In The 15th ACM ASIA Conference on Computer and Communications
    Security <strong>(ASIA CCS 2020)</strong> </font>
 
-7. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)</strong>
+8. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)</strong>
   <br>
    <font size="3">Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>, Heming Cui, Yuexuan Wang, Peng Wang<br>In The Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks <strong>(DSN 2020)</strong> </font>
 
