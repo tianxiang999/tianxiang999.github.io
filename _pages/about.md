@@ -73,5 +73,5 @@ Academic services
 <ul>
   <li><a href="https://i.cs.hku.hk/apsys2021/index.html" target="_blank" rel="noopener noreferrer">APSys 2021</a> Web Chair</li>
   <li>SOSP 2021 Artifact Evaluation Committee (AEC)</li>
-  <li>Journal Reviewer (Invited) for IEEE Journal on Selected Areas in Communications (JSAC)</li>
+  <li>Invited CCF-A Journal Reviewer for JSAC and TDSC</li>
 </ul> 
