@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a fourth-year (2018--now) PhD student in Computer Science
+I am currently a fifth-year (2018--now) PhD student in Computer Science
 Department at The University of Hong Kong. I am under the supervision of Prof.
 Heming Cui [link](https://i.cs.hku.hk/~heming/). 
 
@@ -73,5 +73,5 @@ Academic services
 <ul>
   <li><a href="https://i.cs.hku.hk/apsys2021/index.html" target="_blank" rel="noopener noreferrer">APSys 2021</a> Web Chair</li>
   <li>SOSP 2021 Artifact Evaluation Committee (AEC)</li>
-  <li>Invited CCF-A Journal Reviewer for JSAC and TDSC</li>
+  <li>Invited CCF-A Journal Reviewer for TPDS, TDSC, and JSAC</li>
 </ul> 
