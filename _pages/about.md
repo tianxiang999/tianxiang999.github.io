@@ -11,6 +11,10 @@ I am currently a fifth-year (2018--now) PhD student in Computer Science
 Department at The University of Hong Kong. I am under the supervision of Prof.
 Heming Cui [link](https://i.cs.hku.hk/~heming/). 
 
+I serve as the reviewer of several top (CCF-A) journals, including TPDS, TDSC,
+and JSAC. I was the web chair of [APSys 2021](https://i.cs.hku.hk/apsys2021/index.html). I was the Artifact Evaluation
+Committee for SOSP 2021.
+
 I am broadly interested in distributed systems, network and AI, with a
 particular focus on improving the security and performance. During my PhD study,
 I have been focusing on building privacy-preserving decentralized
@@ -68,10 +72,10 @@ Publications
   <br>
    <font size="3">Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>, Heming Cui, Yuexuan Wang, Peng Wang<br>In The Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks <strong>(DSN 2020)</strong> </font>
 
-Academic services
+<!-- Academic services
 -----  
 <ul>
   <li><a href="https://i.cs.hku.hk/apsys2021/index.html" target="_blank" rel="noopener noreferrer">APSys 2021</a> Web Chair</li>
   <li>SOSP 2021 Artifact Evaluation Committee (AEC)</li>
   <li>Invited CCF-A Journal Reviewer for TPDS, TDSC, and JSAC</li>
-</ul> 
+</ul>  -->
