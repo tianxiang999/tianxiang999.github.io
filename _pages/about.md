@@ -74,7 +74,7 @@ Publications
 Academic Talks
 -----  
 <ul>
-  <li><a href="https://innowings.engg.hku.hk/secure-artificial-intelligence/" target="_blank" rel="noopener noreferrer">Sep 19, 2023 @ HKU Young Scholar TechTalk</a> Web Chair</li>
-  <li> <a href="https://bytedance.feishu.cn/docx/LO1edJyefoQ1fKxiqoMctNP7n9c" target="_blank" rel="noopener noreferrer">Sep 14, 2023 @ 字节跳动ByteTech技术社区: <strong>安全赋能AI：基于可信执行环境的高效安全的深度学习模型推理系统 </strong></a></li>
+  <li>Sep 19, 2023 @ HKU Young Scholar TechTalk: <a href="https://innowings.engg.hku.hk/secure-artificial-intelligence/" target="_blank" rel="noopener noreferrer"><strong>Secure and High-performance AI Serving: Protecting AI Secretes, Accelerating AI Insights </strong></a></li>
+  <li>Sep 14, 2023 @ 字节跳动ByteTech技术社区: <a href="https://bytedance.feishu.cn/docx/LO1edJyefoQ1fKxiqoMctNP7n9c" target="_blank" rel="noopener noreferrer"> <strong>安全赋能AI：基于可信执行环境的高效安全的深度学习模型推理系统 </strong></a></li>
   
 </ul> 
