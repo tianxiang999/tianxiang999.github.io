@@ -71,10 +71,10 @@ Publications
   <br>
    <font size="3">Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>, Heming Cui, Yuexuan Wang, Peng Wang<br>In The Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks <strong>(DSN 2020)</strong> </font>
 
-<!-- Academic services
+Talks
 -----  
 <ul>
   <li><a href="https://i.cs.hku.hk/apsys2021/index.html" target="_blank" rel="noopener noreferrer">APSys 2021</a> Web Chair</li>
-  <li>SOSP 2021 Artifact Evaluation Committee (AEC)</li>
-  <li>Invited CCF-A Journal Reviewer for TPDS, TDSC, and JSAC</li>
-</ul>  -->
+  <li>Invited share at 字节跳动ByteTech技术社区: 安全赋能AI：基于可信执行环境的高效安全的深度学习模型推理系统 (Sep 14, 2023)</li>
+  
+</ul> 
