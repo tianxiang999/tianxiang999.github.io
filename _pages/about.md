@@ -21,14 +21,6 @@ computing systems (e.g., Internet-scale
 private messaging system, distributed ledger) and AI training/serving systems
 with practical security tools (e.g., Trusted Execution Environment).
 
-Invited Academic Talks
------  
-<ul>
-  <li>Sep 19, 2023 @ HKU Young Scholar TechTalk: <a href="https://innowings.engg.hku.hk/secure-artificial-intelligence/" target="_blank" rel="noopener noreferrer"><strong>Secure and High-performance AI Serving: Protecting AI Secretes, Accelerating AI Insights </strong></a></li>
-  <li>Sep 14, 2023 @ 字节跳动ByteTech技术社区: <a href="https://bytedance.feishu.cn/docx/LO1edJyefoQ1fKxiqoMctNP7n9c" target="_blank" rel="noopener noreferrer"> <strong>安全赋能AI：基于可信执行环境的高效安全的深度学习模型推理系统 </strong></a></li>
-  <li>Dec 17, 2022 @  <a href="https://cs.nju.edu.cn/gurong/chinasys_2022fall/index.html" target="_blank" rel="noopener noreferrer"> <strong>ChinaSys 2022 </strong></a></li>
-  
-</ul> 
 
 Publications
 -----
@@ -80,3 +72,12 @@ Publications
   <br>
    <font size="3">Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>, Heming Cui, Yuexuan Wang, Peng Wang<br>In The Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks <strong>(DSN 2020)</strong> </font>
 
+
+Invited Academic Talks
+-----  
+<ul>
+  <li>Sep 19, 2023 @ HKU Young Scholar TechTalk: <a href="https://innowings.engg.hku.hk/secure-artificial-intelligence/" target="_blank" rel="noopener noreferrer"><strong>Secure and High-performance AI Serving: Protecting AI Secretes, Accelerating AI Insights </strong></a></li>
+  <li>Sep 14, 2023 @ 字节跳动ByteTech技术社区: <a href="https://bytedance.feishu.cn/docx/LO1edJyefoQ1fKxiqoMctNP7n9c" target="_blank" rel="noopener noreferrer"> <strong>安全赋能AI：基于可信执行环境的高效安全的深度学习模型推理系统 </strong></a></li>
+  <li>Dec 17, 2022 @  <a href="https://cs.nju.edu.cn/gurong/chinasys_2022fall/index.html" target="_blank" rel="noopener noreferrer"> <strong>ChinaSys 2022 </strong></a></li>
+  
+</ul> 
