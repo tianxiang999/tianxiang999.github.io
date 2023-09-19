@@ -61,14 +61,19 @@ Publications
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Sen Wang, Gong Zhang, Li
    Chen, Man Ho Au, Heming Cui<br>In The 28th ACM Symposium on Operating Systems Principles <strong>(SOSP 2021)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
-7. <strong>Uranus: Simple, efficient sgx programming and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
+7. <strong>MVSAS: Semantic-Aware Scheduling for Low Latency and High Precision in Wireless Multi-View Application [[paper]](https://ieeexplore.ieee.org/abstract/document/9763805)</strong>
+  <br>
+   <font size="3">Xiuxian Guan, Zekai Sun, Shengliang Deng, Shixiong Zhao, <strong>Tianxiang Shen</strong>, Tsz On Li, Yuexuan Wang, Rui Wang, Heming Cui<br>In The IEEE 27th International Conference on Parallel and Distributed Systems<strong>(ICPADS 2021)</strong></font><font size="2" face="arial"
+   color="red"><i>CCF-A !!</i></font>
+   
+8. <strong>Uranus: Simple, efficient sgx programming and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
   <br>
    <font size="3">Jianyu Jiang, Xusheng Chen, TszOn Li, Cheng Wang,
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Heming Cui, Cho-Li Wang,
    Fengwei Zhang<br>In The 15th ACM ASIA Conference on Computer and Communications
    Security <strong>(ASIA CCS 2020)</strong> </font>
 
-8. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)</strong>
+9. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)</strong>
   <br>
    <font size="3">Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>, Heming Cui, Yuexuan Wang, Peng Wang<br>In The Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks <strong>(DSN 2020)</strong> </font>
 
