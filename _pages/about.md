@@ -63,8 +63,7 @@ Publications
 
 7. <strong>MVSAS: Semantic-Aware Scheduling for Low Latency and High Precision in Wireless Multi-View Application [[paper]](https://ieeexplore.ieee.org/abstract/document/9763805)</strong>
   <br>
-   <font size="3">Xiuxian Guan, Zekai Sun, Shengliang Deng, Shixiong Zhao, <strong>Tianxiang Shen</strong>, Tsz On Li, Yuexuan Wang, Rui Wang, Heming Cui<br>In The IEEE 27th International Conference on Parallel and Distributed Systems<strong>(ICPADS 2021)</strong></font><font size="2" face="arial"
-   color="red"><i>CCF-A !!</i></font>
+   <font size="3">Xiuxian Guan, Zekai Sun, Shengliang Deng, Shixiong Zhao, <strong>Tianxiang Shen</strong>, Tsz On Li, Yuexuan Wang, Rui Wang, Heming Cui<br>In The IEEE 27th International Conference on Parallel and Distributed Systems<strong>(ICPADS 2021)</strong></font>
    
 8. <strong>Uranus: Simple, efficient sgx programming and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
   <br>
