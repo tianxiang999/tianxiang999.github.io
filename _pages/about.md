@@ -10,17 +10,14 @@ redirect_from:
 I am currently a fifth-year (2018--now) PhD student in Computer Science
 Department at The University of Hong Kong. I am under the supervision of [Prof. Heming Cui](https://i.cs.hku.hk/~heming/). 
 
-I am an invited reviewer of several top (CCF-A) journals, including TPDS, TDSC,
+I review several top-tier (CCF-A) journals, including TPDS, TDSC,
 and JSAC. I was the web chair of [APSys 2021](https://i.cs.hku.hk/apsys2021/index.html). I was the Artifact Evaluation
 Committee for SOSP 2021.
 
-I am broadly interested in distributed systems, network and AI, with a
-particular focus on improving the security and performance. During my PhD study,
-I have been focusing on building privacy-preserving decentralized
-computing systems (e.g., Internet-scale
-private messaging system, distributed ledger) and AI training/serving systems
-with practical security tools (e.g., Trusted Execution Environment).
 
+My research interests are in distributed system and trusted computing. During my doctoral research, I have
+been focusing on using trusted computing tools (including trusted hardware and cryptography) to implement secure and robust distributed
+computing systems (including data networking systems, distributed databases, and secure AI training and inference systems).
 
 
 
@@ -88,9 +85,16 @@ Publications
    Fengwei Zhang<br>In The 15th ACM ASIA Conference on Computer and Communications
    Security <strong>(ASIA CCS 2020)</strong> </font>
 
-10. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)</strong>
+10. <strong>Uranus: Simple, efficient sgx programming and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
+<br>
+<font size="3">Jianyu Jiang, Xusheng Chen, TszOn Li, Cheng Wang,
+<strong>Tianxiang Shen</strong>, Shixiong Zhao, Heming Cui, Cho-Li Wang,
+Fengwei Zhang<br>In The 15th ACM ASIA Conference on Computer and Communications
+Security <strong>(ASIA CCS 2020)</strong> </font>
+
+<!-- 10. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)</strong>
   <br>
-   <font size="3">Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>, Heming Cui, Yuexuan Wang, Peng Wang<br>In The Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks <strong>(DSN 2020)</strong> </font><font size="2" face="arial" color="red"><i>CCF-B</i></font>
+   <font size="3">Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>, Heming Cui, Yuexuan Wang, Peng Wang<br>In The Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks <strong>(DSN 2020)</strong> </font><font size="2" face="arial" color="red"><i>CCF-B</i></font> -->
 
 
 Invited Academic Talks
