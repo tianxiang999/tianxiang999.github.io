@@ -103,6 +103,13 @@ Publications
   <br>
    <font size="3">Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>, Heming Cui, Yuexuan Wang, Peng Wang<br>In The Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks <strong>(DSN 2020)</strong> </font><font size="2" face="arial" color="red"><i>CCF-B</i></font>
 
+10. <strong>SOTER: Guarding Black-box Inference for General Neural Networks at the Edge [[paper]](https://www.usenix.org/system/files/atc22-shen.pdf)</strong>
+  <br>
+   <font size="3"><strong>Tianxiang Shen</strong>, Ji Qi, Jianyu Jiang, Xian
+   Wang, Siyuan Wen, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Xiapu Luo,
+   Fengwei Zhang, Heming Cui<br>Proceedings of the 2022 USENIX Annual Technical
+   Conference <strong>(ATC 2022)</strong></font><font size="2" face="arial"
+   color="red"><i>CCF-A !!</i></font>
 
 
 
