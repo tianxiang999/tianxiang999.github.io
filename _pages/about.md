@@ -38,15 +38,13 @@ Publications
    <strong>(TDSC 2021)</strong></font><font size="2" face="arial"
    color="red"><i>CCF-A !!</i></font>
    
-3. <strong>AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments [[paper]]()</strong>
+3. <strong>AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments [[paper]](https://jmwang0117.github.io/AGRNav.pdf)</strong>
   <br>
    <font size="3">Junming Wang, Zekai Sun, Xiuxian Guan, <strong>Tianxiang
    Shen</strong>, Zonyuan Zhang, Tianyang Duan, Dong Huang, Shixiong Zhao, Heming Cui<br>2024 IEEE International Conference on Robotics and Automation <strong>(ICRA 2024)</strong></font><font
    size="2" face="arial" color="red"><i>CCF-B</i></font>
 
-
-
-4. <strong>CRONUS: Fault-isolated, Secure and High-performance Heterogeneous Computing for Trusted Execution Environments [[paper]]()</strong>
+4. <strong>CRONUS: Fault-isolated, Secure and High-performance Heterogeneous Computing for Trusted Execution Environments [[paper]](https://i.cs.hku.hk/~heming/papers/micro22-cronus.pdf)</strong>
   <br>
    <font size="3">Jianyu Jiang, Qi Ji, <strong>Tianxiang Shen</strong>, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Gong Zhang, Xiapu Luo, Heming Cui<br>The 55th ACM/IEEE International Symposium on Microarchitecture <strong>(MICRO 2022)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
@@ -83,18 +81,24 @@ Publications
    <font size="3">Jianyu Jiang, Xusheng Chen, TszOn Li, Cheng Wang,
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Heming Cui, Cho-Li Wang,
    Fengwei Zhang<br>In The 15th ACM ASIA Conference on Computer and Communications
-   Security <strong>(ASIA CCS 2020)</strong> </font>
+   Security <strong>(ASIA CCS 2020)</strong></font>
 
 10. <strong>Uranus: Simple, efficient sgx programming and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
   <br>
    <font size="3">Jianyu Jiang, Xusheng Chen, TszOn Li, Cheng Wang,
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Heming Cui, Cho-Li Wang,
    Fengwei Zhang<br>In The 15th ACM ASIA Conference on Computer and Communications
-   Security <strong>(ASIA CCS 2020)</strong> </font>
+   Security <strong>(ASIA CCS 2020)</strong></font>
 
 10. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)</strong>
   <br>
    <font size="3">Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>, Heming Cui, Yuexuan Wang, Peng Wang<br>In The Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks <strong>(DSN 2020)</strong> </font><font size="2" face="arial" color="red"><i>CCF-B</i></font>
+
+1. <strong>SOTER: Guarding Black-box Inference for General Neural Networks at the Edge [[paper]](https://www.usenix.org/system/files/atc22-shen.pdf)</strong>
+  <br>
+   <font size="3"><strong>Tianxiang Shen</strong>, Ji Qi, Jianyu Jiang, Xian
+   Wang, Siyuan Wen, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Xiapu Luo,
+   Fengwei Zhang, Heming Cui<br>Proceedings of the 2022 USENIX Annual Technical Conference <strong>(ATC 2022)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
 
 Invited Academic Talks
