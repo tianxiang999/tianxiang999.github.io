@@ -21,7 +21,7 @@ computing systems (including data networking systems, distributed databases, and
 
 
 
-Publications
+Selected Publications
 -----
 
 1. <strong>SOTER: Guarding Black-box Inference for General Neural Networks at the Edge [[paper]](https://www.usenix.org/system/files/atc22-shen.pdf)</strong>
