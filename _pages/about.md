@@ -7,16 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a fifth-year (2018--now) PhD student in Computer Science
-Department at The University of Hong Kong. I am under the supervision of [Prof. Heming Cui](https://i.cs.hku.hk/~heming/). 
+I receive my PhD degree of Computer Science from University of Hong Kong in
+2024, under the supervision of [Prof. Heming Cui](https://i.cs.hku.hk/~heming/).
+My research interests are in distributed system and trusted computing. I used
+trusted computing tools (e.g., trusted hardware like Intel SGX) to implement secure and robust
+distributed
+computing systems (including data networking systems, distributed databases, and secure AI training and inference systems).
 
-I review several top-tier (CCF-A) journals, such as TPDS, TDSC, JSAC, and ToN. I was the web chair of [APSys 2021](https://i.cs.hku.hk/apsys2021/index.html). I was the Artifact Evaluation
+I also review several top-tier (CCF-A) journals, such as TPDS, TDSC, JSAC, and ToN. I was the web chair of [APSys 2021](https://i.cs.hku.hk/apsys2021/index.html). I was the Artifact Evaluation
 Committee for SOSP 2021.
 
 
-My research interests are in distributed system and trusted computing. During my doctoral research, I have
-been focusing on using trusted computing tools (e.g., trusted hardware) to implement secure and robust distributed
-computing systems (including data networking systems, distributed databases, and secure AI training and inference systems).
+
 
 
 

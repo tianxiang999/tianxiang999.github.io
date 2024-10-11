@@ -82,12 +82,12 @@ analytics:
 author:
   # name             : "Tianxiang Shen"
   avatar           : "stx.png"
-  bio              : "Rm 335A, Haking Wong Building, Pok Fu Lam Road, stx635@connect.hku.hk"
+  bio              : "Rm 335A, Haking Wong Building, Pok Fu Lam Road, stxhku@gmail.com"
   location         : "Hong Kong, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=O9OOpR0AAAAJ&hl=zh-CN"
-  email            : stx635@connect.hku.hk
+  email            : stxhku@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
