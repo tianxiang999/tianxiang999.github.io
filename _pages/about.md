@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I receive my PhD degree of Computer Science from University of Hong Kong in
+I received my PhD degree of Computer Science from University of Hong Kong in
 2024, under the supervision of [Prof. Heming Cui](https://i.cs.hku.hk/~heming/).
 My research interests are in distributed system and trusted computing. I used
 trusted computing tools (e.g., trusted hardware like Intel SGX) to implement secure and robust
@@ -93,6 +93,7 @@ Selected Publications
 Invited Academic Talks
 -----  
 <ul>
+  <li>Oct 11, 2024 @ 南京大学计算机学院青年学者论坛: <a href="https://tianxiang999.github.io/images/NJU.jpg" target="_blank" rel="noopener noreferrer"><strong>Enabling Secure and Efficient Distributed Computing using Trusted Execution Environment </strong></a></li>
   <li>Oct 17, 2023 @ 深圳大学计算机与软件学院海内外青年科学家云论坛: <a href="https://mp.weixin.qq.com/s/sY98nA4GEc_VoY2MdCdrrA" target="_blank" rel="noopener noreferrer"><strong>安全赋能AI：基于硬件可信执行环境的高可靠, 低延时的深度学习模型推理系统 </strong></a></li>
   <li>Sep 19, 2023 @ HKU Young Scholar TechTalk: <a href="https://innowings.engg.hku.hk/secure-artificial-intelligence/" target="_blank" rel="noopener noreferrer"><strong>Secure and High-performance AI Serving: Protecting AI Secretes, Accelerating AI Insights </strong></a></li>
   <li>Sep 14, 2023 @ 字节跳动ByteTech技术社区: <a href="" target="_blank" rel="noopener noreferrer"> <strong>安全赋能AI：基于可信执行环境的高效安全的深度学习模型推理系统 </strong></a></li>
