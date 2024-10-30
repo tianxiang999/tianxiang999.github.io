@@ -12,7 +12,8 @@ I received my PhD degree of Computer Science from University of Hong Kong in
 My research interests are in distributed system and trusted computing. I used
 trusted computing tools (e.g., trusted hardware like Intel SGX) to implement secure and robust
 distributed
-computing systems (including data networking systems, distributed databases, and secure AI training and inference systems).
+computing systems (including data networking systems, distributed databases, and
+secure AI training and inference systems). See my full list of publications [here](https://scholar.google.com/citations?user=O9OOpR0AAAAJ&hl=zh-CN).
 
 I also review several top-tier (CCF-A) journals, such as TPDS, TDSC, JSAC, and ToN. I was the web chair of [APSys 2021](https://i.cs.hku.hk/apsys2021/index.html). I was the Artifact Evaluation
 Committee for SOSP 2021.
