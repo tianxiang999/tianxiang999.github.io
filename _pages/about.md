@@ -19,7 +19,7 @@ I review several top-tier (CCF-A) journals, such as TPDS, TDSC, JSAC, and ToN. I
 was the web chair of APSys 2021. I was the Artifact Evaluation
 Committee for SOSP 2021.
 
-<strong><em style="color: red;">💥 【News】  </em></strong><em style="color:
+<strong><em style="color: red;">💥【News】💥 </em></strong><em style="color:
 red;">I've been selected for the 10th Young Elite Scientists Sponsorship Program
 </em><strong><em style="color: red;">(青托工程，国家级青年人才项目) </em></strong><em style="color:
 red;">by the China Association for Science and Technology (中国科学技术协会)</em><em style="color:
