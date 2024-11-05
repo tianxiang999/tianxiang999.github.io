@@ -20,8 +20,10 @@ was the web chair of APSys 2021. I was the Artifact Evaluation
 Committee for SOSP 2021.
 
 <strong><em style="color: red;">💥 Recently: </em></strong><em style="color:
-red;">I've been selected for the 10th Young Elite Scientists Sponsorship Program (青托工程)
-by the China Association for Science and Technology </em><strong><em style="color: red;">(国家级青年人才项目)</em></strong><em style="color:
+red;">I've been selected for the 10th Young Elite Scientists Sponsorship Program
+</em><strong><em style="color: red;">(青托工程，国家级青年人才项
+目) </em></strong><em style="color:
+red;">by the China Association for Science and Technology (中国科学技术协会)</em><em style="color:
 red;">, receiving a research grant of </em><strong><em style="color: red;">300,000 RMB.</em></strong>
 
 
