@@ -19,13 +19,10 @@ I review several top-tier (CCF-A) journals, such as TPDS, TDSC, JSAC, and ToN. I
 was the web chair of APSys 2021. I was the Artifact Evaluation
 Committee for SOSP 2021.
 
-<!-- <strong><em style="color: red;">💥【News】💥 </em></strong><em style="color:
+<strong><em style="color: red;">💥【News】💥 </em></strong><em style="color:
 red;">I've been selected for the 10th Young Elite Scientists Sponsorship Program
-</em><strong><em style="color: red;">(青托工程，国家级青年人才项目) </em></strong><em style="color:
-red;">by the China Association for Science and Technology (中国科学技术协会)</em><em style="color:
-red;">, receiving a research grant of </em><strong><em style="color:
-red;">300,000 RMB </em></strong><em style="color:
-red;">(Period: 2024-2026).</em> -->
+</em><strong><em style="color: red;">(青托工程，国家级青年人才项目，Period: 2024-2026) </em>
+
 
 
 
@@ -37,13 +34,20 @@ red;">(Period: 2024-2026).</em> -->
 Selected Publications
 -----
 
-1. <strong>SOTER: Guarding Black-box Inference for General Neural Networks at the Edge [[paper]](https://www.usenix.org/system/files/atc22-shen.pdf)</strong>
+1. <strong>OPERA: Achieving Secure and High-performance OLAP with Parallelized Homomorphic Comparisons [[paper]]()</strong>
+  <br>
+   <font size="3"> Qi Hu, Wei Chen, <strong>Tianxiang Shen*(<em style="color:
+   red;">Corresponding Author</em>)</strong>，Xin Yao,
+   Nicholas Zhang, Heming Cui, Siu-Ming Yiu<br>IEEE Symposium on Security and Privacy <strong>(S&P 2025)</strong></font><font size="2"
+   face="arial" color="red"><i>CCF-A !!</i></font>
+
+2. <strong>SOTER: Guarding Black-box Inference for General Neural Networks at the Edge [[paper]](https://www.usenix.org/system/files/atc22-shen.pdf)</strong>
   <br>
    <font size="3"><strong>Tianxiang Shen</strong>, Ji Qi, Jianyu Jiang, Xian
    Wang, Siyuan Wen, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Xiapu Luo,
    Fengwei Zhang, Heming Cui<br>Proceedings of the 2022 USENIX Annual Technical Conference <strong>(ATC 2022)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
-2. <strong>DAENet: Making Strong Anonymity Scale in a Fully Decentralized Network [[paper]](https://ieeexplore.ieee.org/document/9328493)</strong>
+3. <strong>DAENet: Making Strong Anonymity Scale in a Fully Decentralized Network [[paper]](https://ieeexplore.ieee.org/document/9328493)</strong>
   <br>
    <font size="3"><strong>Tianxiang Shen</strong>, Jianyu Jiang, Yunpeng Jiang,
    Xusheng Chen, Ji Qi, Shixiong Zhao, Fengwei Zhang, Xiapu Luo, Heming
@@ -51,50 +55,43 @@ Selected Publications
    <strong>(TDSC 2021)</strong></font><font size="2" face="arial"
    color="red"><i>CCF-A !!</i></font>
    
-3. <strong>AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments [[paper]](https://jmwang0117.github.io/AGRNav.pdf)</strong>
+4. <strong>AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments [[paper]](https://jmwang0117.github.io/AGRNav.pdf)</strong>
   <br>
    <font size="3">Junming Wang, Zekai Sun, Xiuxian Guan, <strong>Tianxiang
    Shen</strong>, Zonyuan Zhang, Tianyang Duan, Dong Huang, Shixiong Zhao, Heming Cui<br>2024 IEEE International Conference on Robotics and Automation <strong>(ICRA 2024)</strong></font><font
    size="2" face="arial" color="red"><i>CCF-B</i></font>
 
-4. <strong>CRONUS: Fault-isolated, Secure and High-performance Heterogeneous Computing for Trusted Execution Environments [[paper]](https://i.cs.hku.hk/~heming/papers/micro22-cronus.pdf)</strong>
+5. <strong>CRONUS: Fault-isolated, Secure and High-performance Heterogeneous Computing for Trusted Execution Environments [[paper]](https://i.cs.hku.hk/~heming/papers/micro22-cronus.pdf)</strong>
   <br>
    <font size="3">Jianyu Jiang, Qi Ji, <strong>Tianxiang Shen</strong>, Xusheng Chen, Shixiong Zhao, Sen Wang, Li Chen, Gong Zhang, Xiapu Luo, Heming Cui<br>The 55th ACM/IEEE International Symposium on Microarchitecture <strong>(MICRO 2022)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
-5. <strong>NASPipe: High Performance and Reproducible Pipeline Parallel Supernet
+6. <strong>NASPipe: High Performance and Reproducible Pipeline Parallel Supernet
    Training via Causal Synchronous Parallel [[paper]](https://i.cs.hku.hk/~heming/papers/asplos22-naspipe.pdf) </strong>
   <br>
    <font size="3">Shixiong Zhao, Fanxin Li, Xusheng Chen, <strong>Tianxiang
    Shen</strong>, Li Chen, Sen Wang, Nicholas Zhang, Cheng Li, Heming
    Cui<br>In 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems <strong>(ASPLOS 2022)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
  
-6. <strong>COORP: Satisfying Low-Latency and High-Throughput Requirements of Wireless Network for Coordinated Robotic Learning [[paper]](https://i.cs.hku.hk/~heming/papers/iotj22-coorp.pdf)</strong>
+7. <strong>COORP: Satisfying Low-Latency and High-Throughput Requirements of Wireless Network for Coordinated Robotic Learning [[paper]](https://i.cs.hku.hk/~heming/papers/iotj22-coorp.pdf)</strong>
   <br>
    <font size="3">Shengliang Deng, Xiuxian Guan, Zekai Sun, Shixiong Zhao, <strong>Tianxiang
    Shen</strong>, Xusheng Chen, Tianyang Duan, Yuexuan Wang, Jia Pan, Yanjun Wu,
    Libo Zhang, Heming Cui<br>IEEE Internet of Things Journal 2022 <strong>(IOT-J
    2022)</strong></font>
 
-7. <strong>BIDL: A High-throughput, Low-latency Permissioned Blockchain
+8. <strong>BIDL: A High-throughput, Low-latency Permissioned Blockchain
   Framework for Datacenter Networks [[paper]](https://i.cs.hku.hk/~heming/papers/sosp21-bidl.pdf)</strong>
   <br>
    <font size="3">Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang,
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Sen Wang, Gong Zhang, Li
    Chen, Man Ho Au, Heming Cui<br>In The 28th ACM Symposium on Operating Systems Principles <strong>(SOSP 2021)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
-8. <strong>MVSAS: Semantic-Aware Scheduling for Low Latency and High Precision in Wireless Multi-View Application [[paper]](https://ieeexplore.ieee.org/abstract/document/9763805)</strong>
-  <br>
-   <font size="3">Xiuxian Guan, Zekai Sun, Shengliang Deng, Shixiong Zhao,
-   <strong>Tianxiang Shen</strong>, Tsz On Li, Yuexuan Wang, Rui Wang, Heming
-   Cui<br>In The IEEE 27th International Conference on Parallel and Distributed
-   Systems<strong> (ICPADS 2021)</strong></font>
-
 9. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)</strong>
   <br>
    <font size="3">Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>,Heming Cui, Yuexuan Wang, Peng Wangi<br>Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks <strong>(DSN 2020)</strong></font><font size="2" face="arial"
    color="red"><i>CCF-B</i></font>
    
-9. <strong>Uranus: Simple, efficient sgx programming and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
+10. <strong>Uranus: Simple, efficient sgx programming and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
   <br>
    <font size="3">Jianyu Jiang, Xusheng Chen, TszOn Li, Cheng Wang,
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Heming Cui, Cho-Li Wang,
