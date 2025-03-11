@@ -86,7 +86,7 @@ Selected Publications
    Fengwei Zhang<br>In The 15th ACM ASIA Conference on Computer and Communications
    Security <strong>(ASIA CCS 2020)</strong></font>
 
-10. <strong>See my [full list of publications] (https://scholar.google.com/citations?user=O9OOpR0AAAAJ&hl=zh-CN)</strong>.
+10. <strong>Others: see my [full list of publications] (https://scholar.google.com/citations?user=O9OOpR0AAAAJ&hl=zh-CN)</strong>.
 
 <!-- 
 10. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System 
