@@ -30,7 +30,7 @@ Selected Publications
 1. <strong>OPERA: Achieving Secure and High-performance OLAP with Parallelized Homomorphic Comparisons [[paper]]()</strong>
   <br>
    <font size="3"> Qi Hu, Wei Chen, <strong>Tianxiang Shen*(<em style="color:
-   red;">Corresponding Author</em>)</strong>，Xin Yao,
+   red;">Corresponding Author</em>)</strong>, Xin Yao,
    Nicholas Zhang, Heming Cui, Siu-Ming Yiu<br>IEEE Symposium on Security and Privacy <strong>(S&P 2025)</strong></font><font size="2"
    face="arial" color="red"><i>CCF-A !!</i></font>
 
@@ -79,12 +79,7 @@ Selected Publications
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Sen Wang, Gong Zhang, Li
    Chen, Man Ho Au, Heming Cui<br>In The 28th ACM Symposium on Operating Systems Principles <strong>(SOSP 2021)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
-9. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)</strong>
-  <br>
-   <font size="3">Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>,Heming Cui, Yuexuan Wang, Peng Wangi<br>Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks <strong>(DSN 2020)</strong></font><font size="2" face="arial"
-   color="red"><i>CCF-B</i></font>
-   
-10. <strong>Uranus: Simple, efficient sgx programming and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
+9. <strong>Uranus: Simple, efficient sgx programming and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
   <br>
    <font size="3">Jianyu Jiang, Xusheng Chen, TszOn Li, Cheng Wang,
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Heming Cui, Cho-Li Wang,
@@ -92,6 +87,12 @@ Selected Publications
    Security <strong>(ASIA CCS 2020)</strong></font>
 
  
+10. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)</strong>
+  <br>
+   <font size="3">Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>,Heming Cui, Yuexuan Wang, Peng Wangi<br>Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks <strong>(DSN 2020)</strong></font><font size="2" face="arial"
+   color="red"><i>CCF-B</i></font>
+   
+
 Invited Academic Talks
 -----  
 <ul>
