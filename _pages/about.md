@@ -87,11 +87,19 @@ Selected Publications
    Fengwei Zhang<br>In The 15th ACM ASIA Conference on Computer and Communications
    Security <strong>(ASIA CCS 2020)</strong></font>
 
-<!-- 10. <strong>Others: full list of publications [[paper]](https://i.cs.hku.hk/~heming/papers/sosp21-bidl.pdf)</strong>
-<strong>Others: see my [full list of publications] (https://scholar.google.com/citations?user=O9OOpR0AAAAJ&hl=zh-CN)</strong>. -->
+10. <strong>Uranus: Simple, efficient sgx programming
+  and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
+  <br>
+   <font size="3">Jianyu Jiang, Xusheng Chen, TszOn Li, Cheng Wang,
+   <strong>Tianxiang Shen</strong>, Shixiong Zhao, Heming Cui, Cho-Li Wang,
+   Fengwei Zhang<br>In The 15th ACM ASIA Conference on Computer and Communications
+   Security <strong>(ASIA CCS 2020)</strong></font>
 
 
-10. <strong>
+10. <strong>Others: My Full List of Publications [[Here]](https://scholar.google.com/citations?user=O9OOpR0AAAAJ&hl=zh-CN)</strong>
+
+
+<!-- 10. <strong>
 UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
   <br>
    <font size="3">
@@ -99,7 +107,7 @@ UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining
     <strong>Tianxiang Shen</strong>, Heming Cui, Yuexuan Wang, Peng Wang<br>
     Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks 
     <strong>(DSN 2020)</strong>
-  </font> 
+  </font>  -->
 
 <!-- <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)
 [<a href="https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf">paper</a>]</strong>
