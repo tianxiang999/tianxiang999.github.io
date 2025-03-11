@@ -29,8 +29,7 @@ Selected Publications
 
 1. <strong>OPERA: Achieving Secure and High-performance OLAP with Parallelized Homomorphic Comparisons [[paper]]()</strong>
   <br>
-   <font size="3"> Qi Hu, Wei Chen, <strong>Tianxiang Shen*(<em style="color:
-   red;">Corresponding Author</em>)</strong>, Xin Yao,
+   <font size="3"> Qi Hu, Wei Chen, <strong>Tianxiang Shen*(Corresponding Author)</strong>, Xin Yao,
    Nicholas Zhang, Heming Cui, Siu-Ming Yiu<br>IEEE Symposium on Security and Privacy <strong>(S&P 2025)</strong></font><font size="2"
    face="arial" color="red"><i>CCF-A !!</i></font>
 
