@@ -13,7 +13,7 @@ My research interests are in systems and security. In my past Ph.D. career, I
 mainly focused on using trusted hardware like Intel SGX to build secure and performant
 distributed
 computing systems (including data networking systems, distributed databases, and
-secure AI serving systems). See my full list of publications [here](https://scholar.google.com/citations?user=O9OOpR0AAAAJ&hl=zh-CN).
+secure AI serving systems). 
 
 I review several top-tier (CCF-A) journals, such as TPDS, TDSC, JSAC, and ToN. I
 was the web chair of APSys 2021. I was the Artifact Evaluation
@@ -86,11 +86,7 @@ Selected Publications
    Fengwei Zhang<br>In The 15th ACM ASIA Conference on Computer and Communications
    Security <strong>(ASIA CCS 2020)</strong></font>
 
-10. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)</strong>
-  <br>
-   <font size="3">Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>,Heming Cui, Yuexuan Wang, Peng Wangi<br>Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks <strong>(DSN 2020)</strong></font><br><font size="2" face="arial"
-   color="red"><i>CCF-B</i></font>
-
+10. See the full list of publications [here](https://scholar.google.com/citations?user=O9OOpR0AAAAJ&hl=zh-CN).
 
 <!-- 
 10. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System 
