@@ -65,21 +65,21 @@ Selected Publications
    Shen</strong>, Li Chen, Sen Wang, Nicholas Zhang, Cheng Li, Heming
    Cui<br>In 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems <strong>(ASPLOS 2022)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
  
-7. <strong>COORP: Satisfying Low-Latency and High-Throughput Requirements of Wireless Network for Coordinated Robotic Learning [[paper]](https://i.cs.hku.hk/~heming/papers/iotj22-coorp.pdf)</strong>
+<!-- 7. <strong>COORP: Satisfying Low-Latency and High-Throughput Requirements of Wireless Network for Coordinated Robotic Learning [[paper]](https://i.cs.hku.hk/~heming/papers/iotj22-coorp.pdf)</strong>
   <br>
    <font size="3">Shengliang Deng, Xiuxian Guan, Zekai Sun, Shixiong Zhao, <strong>Tianxiang
    Shen</strong>, Xusheng Chen, Tianyang Duan, Yuexuan Wang, Jia Pan, Yanjun Wu,
    Libo Zhang, Heming Cui<br>IEEE Internet of Things Journal 2022 <strong>(IOT-J
-   2022)</strong></font>
+   2022)</strong></font> -->
 
-8. <strong>BIDL: A High-throughput, Low-latency Permissioned Blockchain
+7. <strong>BIDL: A High-throughput, Low-latency Permissioned Blockchain
   Framework for Datacenter Networks [[paper]](https://i.cs.hku.hk/~heming/papers/sosp21-bidl.pdf)</strong>
   <br>
    <font size="3">Ji Qi, Xusheng Chen, Yunpeng Jiang, Jianyu Jiang,
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Sen Wang, Gong Zhang, Li
    Chen, Man Ho Au, Heming Cui<br>In The 28th ACM Symposium on Operating Systems Principles <strong>(SOSP 2021)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
-9. <strong>Uranus: Simple, efficient sgx programming
+8. <strong>Uranus: Simple, efficient sgx programming
   and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
   <br>
    <font size="3">Jianyu Jiang, Xusheng Chen, TszOn Li, Cheng Wang,
@@ -96,7 +96,6 @@ Selected Publications
    Security <strong>(ASIA CCS 2020)</strong></font>
  -->
 
-10. <strong>Others: My Full List of Publications [[Here]](https://scholar.google.com/citations?user=O9OOpR0AAAAJ&hl=zh-CN)</strong>
 
 
 <!-- <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)
