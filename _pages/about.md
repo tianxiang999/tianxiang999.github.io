@@ -86,15 +86,24 @@ Selected Publications
    Fengwei Zhang<br>In The 15th ACM ASIA Conference on Computer and Communications
    Security <strong>(ASIA CCS 2020)</strong></font>
 
-10. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)</strong>
+<!-- 10. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)</strong>
   <br>
    <font size="3">Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>,Heming Cui, Yuexuan Wang, Peng Wangi<br>Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks <strong>(DSN 2020)</strong></font><font size="2" face="arial"
    color="red"><i>CCF-B</i></font>
- 
-10. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System [[paper]](https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf)</strong>
-  <br>
-   <font size="3">Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, <strong>Tianxiang Shen</strong>,Heming Cui, Yuexuan Wang, Peng Wangi<br>Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks <strong>(DSN 2020)</strong></font><font size="2" face="arial"
-   color="red"><i>CCF-B</i></font>
+
+ -->
+
+10. <strong>UPA: An Automated, Accurate and Efficient Differentially Private Big-data Mining System 
+[<a href="https://i.cs.hku.hk/~heming/papers/dsn20-upa.pdf">paper</a>]</strong>
+<br>
+<font size="3">
+    Tsz On Li, Jianyu Jiang, Ji Qi, Chi Chiu So, Jiacheng Ma, Xusheng Chen, 
+    <strong>Tianxiang Shen</strong>, Heming Cui, Yuexuan Wang, Peng Wang<br>
+    Proceedings of the 50th IEEE/IFIP International Conference on Dependable Systems and Networks 
+    <strong>(DSN 2020)</strong>
+</font>
+<br>
+<font size="2" face="arial" color="red"><i>CCF-B</i></font>
 
 Invited Academic Talks
 -----  
