@@ -27,7 +27,7 @@ red;">I've been selected for the 10th Young Elite Scientists Sponsorship Program
 Services
 -----  
 <ul>
-  <li>PC 程序委员 @ <a href="https://cnsys2025.cn/cfp.html" target="_blank" rel="noopener noreferrer"><strong>第28届中国计算机系统研讨会 (ChinaSys'25)</strong></a></li> 
+  <li>Program Committee 程序委员 @ <a href="https://cnsys2025.cn/cfp.html" target="_blank" rel="noopener noreferrer"><strong>第28届中国计算机系统研讨会 (ChinaSys'25)</strong></a></li> 
 </ul> 
 
 Selected Publications ([[Full List]](https://scholar.google.com/citations?user=O9OOpR0AAAAJ&hl=zh-CN))
@@ -110,7 +110,7 @@ Selected Publications ([[Full List]](https://scholar.google.com/citations?user=O
 
 
 
-Invited Academic Talks
+Invited Talks
 -----  
 <ul>
   <li>Oct 11, 2024 @ 南京大学计算机学院青年学者论坛: <a href="https://tianxiang999.github.io/images/NJU.jpg" target="_blank" rel="noopener noreferrer"><strong>Enabling Secure and Efficient Distributed Computing using Trusted Execution Environment </strong></a></li>
