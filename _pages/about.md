@@ -15,16 +15,17 @@ distributed
 computing systems (including data networking systems, distributed databases, and
 secure AI serving systems). 
 
-I review several top-tier (CCF-A) journals, such as TPDS, TDSC, JSAC, and ToN. I
+I constantly review top-tier (CCF-A) journals, such as TPDS, TDSC, JSAC, and
+ToN. I was the PC of ChinaSys 2025. I
 was the web chair of APSys 2021. I was the Artifact Evaluation
-Committee for SOSP 2021.
+Committee of SOSP 2021.
 
 <strong><em style="color: red;">💥【News】💥 </em></strong><em style="color:
 red;">I've been selected for the 10th Young Elite Scientists Sponsorship Program
-</em><strong><em style="color: red;">(青托工程，国家级青年人才项目，Period: 2024-2026) </em>
+</em><strong><em style="color: red;">(中国科协青年人才托举工程 2024-2026) </em>
 
 
-Selected Publications
+Selected Publications ([[Full List]](https://scholar.google.com/citations?user=O9OOpR0AAAAJ&hl=zh-CN))
 -----
 
 1. <strong>OPERA: Achieving Secure and High-performance OLAP with Parallelized Homomorphic Comparisons [[paper]]()</strong>
