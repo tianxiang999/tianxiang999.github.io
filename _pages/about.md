@@ -24,6 +24,11 @@ Committee of SOSP 2021.
 red;">I've been selected for the 10th Young Elite Scientists Sponsorship Program
 </em><strong><em style="color: red;">(中国科协青年人才托举工程 2024-2026) </em>
 
+Services
+-----  
+<ul>
+  <li>PC 程序委员 @ <a href="https://cnsys2025.cn/cfp.html" target="_blank" rel="noopener noreferrer"><strong>第28届中国计算机系统研讨会 (ChinaSys'25)</strong></a></li> 
+</ul> 
 
 Selected Publications ([[Full List]](https://scholar.google.com/citations?user=O9OOpR0AAAAJ&hl=zh-CN))
 -----
