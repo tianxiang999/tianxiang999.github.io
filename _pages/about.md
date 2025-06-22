@@ -55,8 +55,8 @@ Selected Publications ([[Full List]](https://scholar.google.com/citations?user=O
   <br>
    <font size="3"><strong>Tianxiang Shen</strong>, Jianyu Jiang, Yunpeng Jiang,
    Xusheng Chen, Ji Qi, Shixiong Zhao, Fengwei Zhang, Xiapu Luo, Heming
-   Cui<br>IEEE Transactions on Dependable and Secure Computing 2021
-   <strong>(TDSC 2021)</strong></font><font size="2" face="arial"
+   Cui<br>IEEE Transactions on Dependable and Secure Computing 
+   <strong>(TDSC 2022)</strong></font><font size="2" face="arial"
    color="red"><i>CCF-A !!</i></font>
    
 5. <strong>AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments [[paper]](https://jmwang0117.github.io/AGRNav.pdf)</strong>
