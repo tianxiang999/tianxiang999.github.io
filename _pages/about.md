@@ -91,13 +91,12 @@ Selected Publications ([[Full List]](https://scholar.google.com/citations?user=O
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Sen Wang, Gong Zhang, Li
    Chen, Man Ho Au, Heming Cui<br>In The 28th ACM Symposium on Operating Systems Principles <strong>(SOSP 2021)</strong></font><font size="2" face="arial" color="red"><i>CCF-A !!</i></font>
 
-10. <strong>Uranus: Simple, efficient sgx programming
-  and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
+<!-- 10. <strong>Uranus: Simple, efficient sgx programming and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
   <br>
    <font size="3">Jianyu Jiang, Xusheng Chen, TszOn Li, Cheng Wang,
    <strong>Tianxiang Shen</strong>, Shixiong Zhao, Heming Cui, Cho-Li Wang,
    Fengwei Zhang<br>In The 15th ACM ASIA Conference on Computer and Communications
-   Security <strong>(ASIA CCS 2020)</strong></font>
+   Security <strong>(ASIA CCS 2020)</strong></font> -->
 
 <!-- 10. <strong>Uranus: Simple, efficient sgx programming
   and its applications [[paper]](https://i.cs.hku.hk/~heming/papers/asiaccs20-uranus.pdf)</strong>
