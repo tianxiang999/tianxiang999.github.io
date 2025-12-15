@@ -1,20 +1,28 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Tianxiang Shen's Personal Academic Website
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+This is the personal academic website of Tianxiang Shen, built using Jekyll and the Minimal Mistakes theme. The website showcases research publications, talks, teaching materials, and professional information.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+The site is based on the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) which was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), © 2016 Michael Rose and released under the MIT License.
 
-# Instructions
+### Note: if you get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+# Website Structure
 
-See more info at https://academicpages.github.io/
+This website is organized as follows:
+
+- `_pages/` - Main website pages (About, CV, Publications, etc.)
+- `_posts/` - Blog posts and news updates
+- `_publications/` - Research publications in markdown format
+- `_talks/` - Conference talks and presentations
+- `_teaching/` - Teaching materials and course information
+- `_portfolio/` - Portfolio items and projects
+- `images/` - Images used throughout the website
+- `files/` - PDF files and downloadable documents
+- `paper/` - Research paper PDFs
+- `scripts/` - Python scripts and Jupyter notebooks for content generation
+- `markdown_generator/` - Tools for generating markdown from TSV files
+
+# Local Development
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 

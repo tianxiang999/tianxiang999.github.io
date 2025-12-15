@@ -1,22 +1,22 @@
 {
-  "name": "minimal-mistakes",
-  "version": "3.4.2",
-  "description": "Minimal Mistakes Jekyll theme npm build scripts",
+  "name": "tianxiang-personal-website",
+  "version": "1.0.0",
+  "description": "Tianxiang Shen's personal academic website",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git://github.com/tianxiang999/tianxiang999.github.io.git"
   },
   "keywords": [
     "jekyll",
-    "theme",
-    "minimal"
+    "academic",
+    "personal-website"
   ],
-  "author": "Michael Rose",
+  "author": "Tianxiang Shen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+    "url": "https://github.com/tianxiang999/tianxiang999.github.io/issues"
   },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://tianxiang999.github.io/",
   "engines": {
     "node": ">= 0.10.0"
   },
