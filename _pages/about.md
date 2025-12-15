@@ -27,8 +27,8 @@ red;">I've been selected for the 10th Young Elite Scientists Sponsorship Program
 Services
 -----  
 <ul>
-  <li>Program Committee 程序委员 @ <a href="https://cnsys2025.cn/cfp.html" target="_blank" rel="noopener noreferrer"><strong>第28届中国计算机系统研讨会 (ChinaSys'25 Spring)</strong></a></li> 
-  <li>Program Committee 程序委员 @ <a href="https://cnsys-2025winter.jlu.edu.cn/index.htm" target="_blank" rel="noopener noreferrer"><strong>第29届中国计算机系统研讨会 (ChinaSys'25 Winter)</strong></a></li> 
+  <li>PC程序委员 @ <a href="https://cnsys-2025winter.jlu.edu.cn/index.htm" target="_blank" rel="noopener noreferrer"><strong>第29届中国计算机系统研讨会 (ChinaSys'25 Winter)</strong></a></li> 
+  <li>PC程序委员 @ <a href="https://cnsys2025.cn/cfp.html" target="_blank" rel="noopener noreferrer"><strong>第28届中国计算机系统研讨会 (ChinaSys'25 Spring)</strong></a></li> 
 </ul> 
 
 Selected Publications ([[Full List]](https://scholar.google.com/citations?user=O9OOpR0AAAAJ&hl=zh-CN))
