@@ -34,7 +34,7 @@ Services
 Selected Publications ([[Full List]](https://scholar.google.com/citations?user=O9OOpR0AAAAJ&hl=zh-CN))
 -----
 
-1. <strong>OPERA: Achieving Secure and High-performance OLAP with Parallelized Homomorphic Comparisons [[paper]](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2025/2236/00/223600c156.pdf?Expires=1750607969&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL3NwLzIwMjUvMjIzNi8wMC8yMjM2MDBjMTU2LnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MDYwNzk2OX19fV19&Signature=FAtDTNoH5TXpyZZcSR3vjrRb1n~ca7CuHwTklET0cLk~yiI6-ZoYDSc3An90R2BSmggUQtuv~h-w8EXTQIWzQAm8lscb-wWRa5k0QMDabmn1IHFa-1GtC4RHwbFBEimr4jUj45w6SsqwMEzF5OlcutkpB0CPwmzOjVCdXFNq-XiboJG994HsAbec-qk5uDW-LXcW4FRsPmw8R0W5gP9M5CYaYRD8j9vuyyZLiwTqeMaIoIt0G11OXsHxJnR3aaoULUJoXBYHwPm95L283tkKT7QAilzl4fZJumghyqsHiS~fYutJh5SpAhE~3c0cNwUSVOZFbc6T~0vE~L6b0PXbvw__&Key-Pair-Id=K12PMWTCQBDMDT)</strong>
+1. <strong>OPERA: Achieving Secure and High-performance OLAP with Parallelized Homomorphic Comparisons [[paper]](https://hub.hku.hk/bitstream/10722/369696/1/content.pdf?accept=1)</strong>
   <br>
    <font size="3"> Qi Hu, Wei Chen, <strong>Tianxiang Shen*(Corresponding Author)</strong>, Xin Yao,
    Nicholas Zhang, Heming Cui, Siu-Ming Yiu<br>IEEE Symposium on Security and Privacy <strong>(S&P 2025)</strong></font><font size="2"
@@ -46,7 +46,7 @@ Selected Publications ([[Full List]](https://scholar.google.com/citations?user=O
    Xiapu Luo, Sen Wang, Heming Cui<br>IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE 2025)</strong></font><font size="2"
    face="arial" color="red"><i>CCF-A !!</i></font>
 
-3. <strong>SLARM: SLA-aware, Reliable and Efficient Transaction Dissemination for Permissioned Blockchains [[paper]]()</strong>
+3. <strong>SLARM: SLA-aware, Reliable and Efficient Transaction Dissemination for Permissioned Blockchains [[paper]](https://cse.sustech.edu.cn/faculty/~zhangfw/paper/slarm-tsc25.pdf)</strong>
   <br>
    <font size="3">Ji Qi, <strong>Tianxiang Shen*(Co-first Author)</strong>,
    Jianyu Jiang, Xusheng Chen, Xiapu Luo, Fengwei Zhang, Heming Cui<br>IEEE
